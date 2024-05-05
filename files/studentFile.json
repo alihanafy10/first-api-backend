@@ -1,0 +1,44 @@
+[
+    {
+        "studentId": 1,
+        "name": "Ali",
+        "email": "ali@gmail.com",
+        "password": "123",
+        "departmentId": 1
+    },
+    {
+        "studentId": 2,
+        "name": "Karem",
+        "email": "karem@gmail.com",
+        "password": "123",
+        "departmentId": 2
+    },
+    {
+        "studentId": 3,
+        "name": "samy",
+        "email": "yo@gmail.com",
+        "password": "123",
+        "departmentId": 1
+    },
+    {
+        "studentId": 4,
+        "name": "Kishk",
+        "email": "kishk@gmail.com",
+        "password": "123",
+        "departmentId": 1
+    },
+    {
+        "studentId": 5,
+        "name": "Solomon",
+        "email": "solo@gmail.com",
+        "password": "123",
+        "departmentId": 2
+    },
+    {
+        "studentId": 6,
+        "name": "elZero",
+        "email": "elz@gmail.com",
+        "password": "123",
+        "departmentId": 1
+    }
+]

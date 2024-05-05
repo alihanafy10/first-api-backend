@@ -1,0 +1,20 @@
+{
+  "name": "assitwo",
+  "version": "1.0.0",
+  "description": "Kato Courses Company System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Kato Courses",
+    "Courses",
+    "developer"
+  ],
+  "author": "Ali Hanafy",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

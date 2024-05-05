@@ -1,0 +1,61 @@
+[
+    {
+        "courseId": 1,
+        "name": "front-end",
+        "content": [
+            "html",
+            "css",
+            "js",
+            "react.js"
+        ],
+        "departmentId": 1
+    },
+    {
+        "courseId": 2,
+        "name": "back-end",
+        "content": [
+            "node.js",
+            "express",
+            "mongodb"
+        ],
+        "departmentId": 1
+    },
+    {
+        "courseId": 3,
+        "name": "Embedded System",
+        "content": [
+            "AVR",
+            "ARM"
+        ],
+        "departmentId": 2
+    },
+    {
+        "courseId": 4,
+        "name": "Embedded Linux",
+        "content": [
+            "C++",
+            "QT",
+            "Linux Administration"
+        ],
+        "departmentId": 2
+    },
+    {
+        "courseId": 5,
+        "name": "Automotive",
+        "content": [
+            "Introduction to Automotive",
+            "Automotive Communication",
+            "OSEK OS"
+        ],
+        "departmentId": 2
+    },
+    {
+        "courseId": 6,
+        "name": "flutter",
+        "content": [
+            "ali",
+            "hossan"
+        ],
+        "departmentId": 1
+    }
+]
